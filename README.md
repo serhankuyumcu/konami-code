@@ -1,4 +1,5 @@
-# Konami-code
+# Konami-code-Key Sequence Detection
+keyup, array.push(), array.join(), array.includes()
 # Technology - Javascript
 # Coding & learning
  Array.prototype.join()
